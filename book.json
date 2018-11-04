@@ -1,0 +1,20 @@
+{
+	"gitbook": "3.x",
+	"title": "青云QingCloud云计算入门",
+	"description": "青云QingCloud云计算入门 - 基于Go语言",
+	"language": "zh-hans",
+
+	"structure": {
+		"readme": "preface.md"
+	},
+
+	"pluginsConfig": {
+		"theme-default": {
+			"showLevel": false
+		}
+	},
+
+	"plugins": [
+		"-search"
+	]
+}
