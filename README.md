@@ -2,4 +2,5 @@
 
 # 青云QingCloud云计算入门 - 基于Go语言
 
-https://github.com/chai2010/qingcloud-go
+- Go SDK: https://github.com/chai2010/qingcloud-go
+- 青云文档: https://docs.qingcloud.com/
