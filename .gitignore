@@ -32,17 +32,6 @@ a.out
 
 .oracle_jre_usage
 
-# wasm
-*.wasm
-*.wasm2wat.txt
-
 *.map
 
 book.pdf
-
-# emcc
-*.out.js
-
-# go
-go.mod
-go.sum
