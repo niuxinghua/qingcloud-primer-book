@@ -16,7 +16,7 @@ cover:
 	convert -resize 200x262!   cover.png cover_small.jpg
 
 
-# https://chai2010.cn/cppwasm-book
+# https://chai2010.cn/qingcloud-primer-book
 deploy:
 	-rm -rf _book
 	gitbook build
@@ -25,7 +25,7 @@ deploy:
 		git init && \
 		git add . && \
 		git commit -m "Update github pages" && \
-		git push --force --quiet "https://github.com/chai2010/qingcloud-primer-go-book.git" master:gh-pages
+		git push --force --quiet "https://github.com/chai2010/qingcloud-primer-book.git" master:gh-pages
 
 	@echo deploy done
 

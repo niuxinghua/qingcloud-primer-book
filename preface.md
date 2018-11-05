@@ -5,7 +5,7 @@
 ![](cover.png)
 
 - 作者：柴树杉，Github [@chai2010](https://github.com/chai2010)，Twitter [@chaishushan](https://twitter.com/chaishushan)
-- 项目地址：https://github.com/chai2010/qingcloud-primer-go-book
+- 项目地址：https://github.com/chai2010/qingcloud-primer-book
 - 青云文档：https://docs.qingcloud.com/
 
 ----

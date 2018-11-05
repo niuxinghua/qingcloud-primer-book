@@ -5,6 +5,6 @@
 //
 // 《青云QingCloud云计算入门 - 基于Go语言》 开源图书 - by chai2010
 //
-//	https://github.com/chai2010/qingcloud-primer-go-book
+//	https://github.com/chai2010/qingcloud-primer-book
 //
-package github_com_chai2010_qingcloud_primer_go_book
+package github_com_chai2010_qingcloud_primer_book
