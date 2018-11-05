@@ -1,6 +1,6 @@
 # 青云QingCloud云计算入门 - 基于Go语言
 
-本书介绍了如何使用Go语言访问青云QingCloud云计算资源。对于刚学习Go语言的读者，建议先从《Go语言圣经》开始系统学习Go语言的基础知识。
+本书介绍了如何使用Go语言访问青云QingCloud云计算资源。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/golang-china/gopl-zh)开始系统学习Go语言的基础知识。
 
 ![](cover.png)
 
